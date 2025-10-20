@@ -11,8 +11,8 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
+- [Overview](#-overview)
+- [Features](#-features)
 - [Demo](#demo)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
